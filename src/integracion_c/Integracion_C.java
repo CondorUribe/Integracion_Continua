@@ -8,7 +8,7 @@ package integracion_c;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//Hola Pedro preparado para la exposicion
+
 /**
  *
  * @author USUARIO
